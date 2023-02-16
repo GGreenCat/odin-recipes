@@ -1,0 +1,13 @@
+body {
+    background-color: rgb(255, 215, 129);
+}
+
+.header {
+    color:rgb(114, 27, 185);
+    font-family: 'DejaVu Sans', Helvetica, sans-serif;
+    text-align: center;
+}
+a {
+    font-size: 22px;
+    color:rgb(238, 103, 62);
+}
